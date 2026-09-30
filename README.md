@@ -27,3 +27,5 @@ Cette étude épistémique exploratoire évalue comment un modèle de langage (L
 
 ## Rapport détaillé
 L'analyse statistique complète, le détail du pipeline d'extraction JSON, ainsi que la discussion sur les limites méthodologiques (notamment via les items de contrôle triviaux) sont disponibles dans le rapport PDF joint à ce dépôt : `Le_poids_de_la_vérifiabilité_dans_le_jugement_des_LLMs___Une_étude_épistémique_sur_l_évaluation_de_l_information.pdf`.
+
+## Note : le code de ce projet a été développé avec l'aide d'une IA ; les choix de modélisation et l'interprétation des résultats sont personnels. Ce petit projet s'appuie sur des travaux de recherche existants et n'en propose pas de bibliographie complète : les idées de réciprocité indirecte, de réputation et de rôle des institutions ne sont pas les miennes et reviennent à leurs auteurs.
